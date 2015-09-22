@@ -1,0 +1,9 @@
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\Reploy\bin\Debug\Reploy.dll.config
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\Reploy\bin\Debug\Reploy.dll
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\Reploy\bin\Debug\Reploy.pdb
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\Reploy\obj\Debug\Reploy.csprojResolveAssemblyReference.cache
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\Reploy\obj\Debug\Reploy.Form1.resources
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\Reploy\obj\Debug\Reploy.Properties.Resources.resources
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\Reploy\obj\Debug\Reploy.csproj.GenerateResource.Cache
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\Reploy\obj\Debug\Reploy.dll
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\Reploy\obj\Debug\Reploy.pdb

@@ -1,0 +1,4 @@
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\SSRSBuddyCMD\bin\Debug\SSRSBuddyCMD.exe
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\SSRSBuddyCMD\bin\Debug\SSRSBuddyCMD.pdb
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\SSRSBuddyCMD\obj\Debug\SSRSBuddyCMD.exe
+D:\GitHub\SSRS-Buddy\Source\SsrsBuddy\SSRSBuddyCMD\obj\Debug\SSRSBuddyCMD.pdb
